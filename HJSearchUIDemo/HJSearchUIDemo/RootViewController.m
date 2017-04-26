@@ -2,8 +2,8 @@
 //  RootViewController.m
 //  HJSectionSearch
 //
-//  Created by zuweizhong on 2017/4/26.
-//  Copyright © 2017年 zuweizhong. All rights reserved.
+//  Created by zwz on 2017/4/26.
+//  Copyright © 2017年 zwz. All rights reserved.
 //
 
 #import "RootViewController.h"
