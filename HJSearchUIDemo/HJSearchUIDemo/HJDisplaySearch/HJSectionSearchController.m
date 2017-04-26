@@ -23,7 +23,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.title = @"iOS分组搜索框--固定搜索";
-    self.searchBar.placeholder = self.title;
+    self.searchBar.placeholder = @"iOS分组搜索框--固定搜索";
     self.view.backgroundColor = [UIColor whiteColor];
    
 }

@@ -21,7 +21,7 @@
     [super viewDidLoad];
     self.title = @"iOS分组搜索框--滚动搜索";
     self.view.backgroundColor = [UIColor whiteColor];
-    self.searchBar.placeholder = self.title;
+    self.searchBar.placeholder = @"iOS分组搜索框--滚动搜索";
     self.tableView.tableHeaderView = self.searchBar;
 }
 #pragma mark - UITableViewDataSource UITableViewDelegate
